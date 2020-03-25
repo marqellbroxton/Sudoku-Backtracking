@@ -6,6 +6,7 @@ Run GUI.py to play sudoku.
 DIRECTIONS:
 - select a box you have an answer to 
 - enter a number that is not in that box column or row by selscting a number then pressing "enter"
+- there are nine 3x3 box sections that can't have that same number in it as well
 - if your answer is correct, it'll print out into that box
 - if your answer is incorrect, the box will become empty again. Waiting for your next answer input
 - each incorrect answer is counted with a red "X" in the bottom left corner of the screen

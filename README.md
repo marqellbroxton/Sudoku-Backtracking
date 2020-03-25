@@ -1,19 +1,28 @@
-# Sudoku-GUI-Solver
-This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI as well as a text based version.
+SUDOKU BACKTRACKING GAME:
+This is a sudoku solver using the backtracking algorithm. It's a graphical sudoku grid with visual game play.
 
 Run GUI.py to play sudoku.
 
-# Instructions
-Click a box and hit the number on your keybaord to pencil in a number. To confirm that value press the ENTER key on that box. To delete a pencil in you can click DEL. Finally to solve the board press SPACE, sit back and watch the algorithm run.
+DIRECTIONS:
+- select a box you have an answer to 
+- enter a number that is not in that box column or row by selscting a number then pressing "enter"
+- if your answer is correct, it'll print out into that box
+- if your answer is incorrect, the box will become empty again. Waiting for your next answer input
+- each incorrect answer is counted with a red "X" in the bottom left corner of the screen
+- when you are done guessing answers or want to end the game, you can press the "Space" bar to watch the game backtrack and solve itself
+- a timer will be keeping track of how long it takes to finish the game
 
-# Video Tutorial
+Buttons:
+mouse - to click boxes
+1 - print #1
+2 - print #2
+3 - print #3
+4 - print #4
+5 - print #5
+6 - print #6
+7 - print #7
+8 - print #8
+9 - print #9
+"enter" - to confirm number for a box
+"Space" - to run backtracking function
 
-You can view the video tutorials on how to create this project here: https://www.youtube.com/watch?v=eqUwSA0xI-s&t=871s
-
-# Run in Gitpod
-
-You can also run Sudoku-GUI-Solver in Gitpod, a free online dev environment for GitHub:
-
-If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM19
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Sudoku-GUI-Solver/blob/master/GUI.py)

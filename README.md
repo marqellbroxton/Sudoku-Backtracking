@@ -14,15 +14,15 @@ DIRECTIONS:
 
 Buttons:
 mouse - to click boxes
-1 - print #1
-2 - print #2
-3 - print #3
-4 - print #4
-5 - print #5
-6 - print #6
-7 - print #7
-8 - print #8
-9 - print #9
-"enter" - to confirm number for a box
-"Space" - to run backtracking function
+- 1 - print #1
+- 2 - print #2
+- 3 - print #3
+- 4 - print #4
+- 5 - print #5
+- 6 - print #6
+- 7 - print #7
+- 8 - print #8
+- 9 - print #9
+- "enter" - to confirm number for a box
+- "Space" - to run backtracking function
 
